@@ -44,7 +44,7 @@ Swift 5.5+
 <h3>📦 Installation</h3>
 
 ```
-git clone https://github.com/yourusername/CoordinatorUIKit.git
+git clone https://github.com/enginbolat/CoordinatorUIKit.git
 ```
 
 ```
